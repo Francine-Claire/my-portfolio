@@ -418,8 +418,9 @@ main {
   }
 
   .about {
-    align-items: flex-start;
+    align-items: center;
     margin-top: 2em;
+    text-align: center; 
   }
 
   .footer {
